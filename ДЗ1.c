@@ -7,6 +7,6 @@ if (a>0){
 }
 else if (a<0) {
     printf("%d",a*3);
-}   else printf("/0");
+}   else printf("10");
 return 0;
 }
